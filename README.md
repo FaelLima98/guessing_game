@@ -1,6 +1,6 @@
 # Iniciando estudos em RUST
 
-Projetinho inicial de um joguinho de advinhação de um número disponível na documentação da linguagem.
+Projetinho inicial de um joguinho de adivinhação de um número disponível na documentação da linguagem.
 
 ## Referência
 
